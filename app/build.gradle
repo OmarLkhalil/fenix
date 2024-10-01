@@ -702,7 +702,7 @@ if (project.hasProperty("coverage")) {
     }
 
     jacoco {
-        toolVersion = "0.8.7"
+        toolVersion = "0.8.12"
     }
 
     android.applicationVariants.all { variant ->
