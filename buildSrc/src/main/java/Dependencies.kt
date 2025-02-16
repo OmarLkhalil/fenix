@@ -236,7 +236,7 @@ object FenixDependencies {
     // For the full IDs of these test dependencies, see:
     //   https://developer.android.com/training/testing/set-up-project#android-test-dependencies
     private const val androidx_test_shared_version = "1.5.0" // this appears to be shared with many deps.
-    private const val androidx_test_junit = "1.1.4"
+    private const val androidx_test_junit = "1.2.1"
     private const val androidx_test_orchestrator = "1.4.2"
     const val androidx_test_core = "androidx.test:core:$androidx_test_shared_version"
     private const val androidx_espresso_version = "3.5.0"
