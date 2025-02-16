@@ -239,7 +239,7 @@ object FenixDependencies {
     private const val androidx_test_junit = "1.1.4"
     private const val androidx_test_orchestrator = "1.4.2"
     const val androidx_test_core = "androidx.test:core:$androidx_test_shared_version"
-    private const val androidx_espresso_version = "3.5.0"
+    private const val androidx_espresso_version = "3.6.1"
     const val espresso_core = "androidx.test.espresso:espresso-core:$androidx_espresso_version"
     const val espresso_contrib = "androidx.test.espresso:espresso-contrib:$androidx_espresso_version"
     const val espresso_idling_resources = "androidx.test.espresso:espresso-idling-resource:$androidx_espresso_version"
